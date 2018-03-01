@@ -10,6 +10,8 @@
 
 [Data Storage Options (persistence)](https://developer.android.com/guide/topics/data/data-storage.html)
 
+[Android Support Library](https://developer.android.com/topic/libraries/support-library/index.html)
+
 # Build an dependency management tools
 
 [Maven](https://maven.apache.org/)
