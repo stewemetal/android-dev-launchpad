@@ -45,6 +45,7 @@
 ## Libraries
 
 **Use libraries for whatever you can!!! It can save you hundreds of work hours!**
+[Android Arsenal - A collection of Android libraries](https://android-arsenal.com/)
 
 ### Serialization
 
