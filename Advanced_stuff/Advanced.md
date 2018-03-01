@@ -3,6 +3,9 @@
 ## Background task execution
 [AxoloTL](https://github.com/AutSoft/AxoloTL) - a background task executor library
 
+## Gradle
+[Renaming build.gradle files](http://www.developerphil.com/renaming-your-gradle-build-files/)
+
 ## Kotlin
 [Home](https://kotlinlang.org/)
 
