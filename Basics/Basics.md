@@ -12,7 +12,7 @@
 
 [Android Support Library](https://developer.android.com/topic/libraries/support-library/index.html)
 
-# Build an dependency management tools
+# Build and dependency management tools
 
 [Maven](https://maven.apache.org/)
 
