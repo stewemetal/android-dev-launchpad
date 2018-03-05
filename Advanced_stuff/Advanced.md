@@ -3,6 +3,9 @@
 ## Background task execution
 [AxoloTL](https://github.com/AutSoft/AxoloTL) - a background task executor library
 
+## Data management
+[Paging Library](https://developer.android.com/topic/libraries/architecture/paging.html)
+
 ## Gradle
 [Renaming build.gradle files](http://www.developerphil.com/renaming-your-gradle-build-files/)
 
