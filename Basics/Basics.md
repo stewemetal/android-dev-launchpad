@@ -30,6 +30,8 @@
 
 [Android KTX](https://android-developers.googleblog.com/2018/02/introducing-android-ktx-even-sweeter.html)
 
+[Kotlin awesome tricks for Android](https://antonioleiva.com/kotlin-awesome-tricks-for-android/)
+
 # Android with Kotlin in practice
 
 [Getting started with Android and Kotlin](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
