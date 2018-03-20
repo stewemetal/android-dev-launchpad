@@ -1,5 +1,14 @@
 # Advanced stuff
 
+## Dependency Injection
+
+### Dagger2
+[Repo](https://github.com/google/dagger)
+
+[Demystifying Dagger](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46)
+
+[Custom scopes, Component dependencies, Subcomponents](https://proandroiddev.com/dagger-2-part-ii-custom-scopes-component-dependencies-subcomponents-697c1fa1cfc)
+
 ## Background task execution
 [AxoloTL](https://github.com/AutSoft/AxoloTL) - a background task executor library
 
