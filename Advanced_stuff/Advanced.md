@@ -20,6 +20,9 @@
 ## Data management
 [Paging Library](https://developer.android.com/topic/libraries/architecture/paging.html)
 
+## Fingerprint handling
+[Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
+
 ## Gradle
 [Renaming build.gradle files](http://www.developerphil.com/renaming-your-gradle-build-files/)
 
