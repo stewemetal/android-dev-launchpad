@@ -20,6 +20,17 @@
 ## Data management
 [Paging Library](https://developer.android.com/topic/libraries/architecture/paging.html)
 
+## Notifications
+
+### Notification Channels
+[Exploring Android O: Notification Channels](https://medium.com/exploring-android/exploring-android-o-notification-channels-94cd274f604c)
+
+### Notification Groups & Heads-up
+[Exploring Android N: Introducing Upgraded Notifications](https://medium.com/exploring-android/android-n-introducing-upgraded-notifications-d4dd98a7ca92)
+
+## Oreo Background Execution Limits
+[Exploring Android O: Bakcground Execution Limits](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
+
 ## Fingerprint handling
 [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
 
